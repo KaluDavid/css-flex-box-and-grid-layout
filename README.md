@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-output:https://kaludavid.github.io/css-flex-box-and-grid-layout/
+This is a Css flex box and grid layout: https://kaludavid.github.io/css-flex-box-and-grid-layout/
 
